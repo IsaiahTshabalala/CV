@@ -1,0 +1,19 @@
+
+body
+{
+  background-color: lightSkyBlue;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+  border-color: brown;
+  width: 5%;
+}
+
+h1, h2, h3
+{
+  color: darkSlateBlue;
+}
